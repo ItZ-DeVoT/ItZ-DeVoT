@@ -33,3 +33,4 @@ Website: [CIRO Distribution](https://cirodistribution.com)
 
 ### 🌐 Links
 - LinkedIn: https://www.linkedin.com/in/arshia-fadaie
+- Email : arshia.dev03@gmail.com
