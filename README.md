@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">ItZ_DeVoT <span style="color:#00d5ff; font-size:18px; font-weight:200">Arshia Fadaie</span></h1>
+<h3 align="center" style="color:#ffb619; font-weight:400;">Full-Stack Developer</h3>
 
-<!--
-**ItZ-DeVoT/ItZ-DeVoT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Skilled in <span style="color:#00ff99; font-weight:600">Django</span>, <span style="color:#00ff99; font-weight:600">PostgreSQL</span>, <span style="color:#00ff99; font-weight:600">JavaScript</span>, and Linux-based deployments, with hands-on experience in managing production environments using <span style="color:#00ff99; font-weight:600">Nginx</span> and <span style="color:#00ff99; font-weight:600">Gunicorn</span>.
+Focused on building clean, maintainable systems and ensuring stable, secure web applications.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+![My Skills](https://skillicons.dev/icons?i=python,django)
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
+
+![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,postgres,nginx,linux)
+
+---
+
+### Featured Project
+**CIRO – Music Distribution Platform**
+- User dashboard & authentication
+- Track & release management
+- Wallet, receipts & artist linking
+- Built with Django & PostgreSQL
+
+Owning backend architecture, deployment, and platform maintenance
+
+Website: [CIRO Distribution](https://cirodistribution.com)
+
+
+---
+
+### 🌐 Links
+- LinkedIn: https://www.linkedin.com/in/arshia-fadaie
