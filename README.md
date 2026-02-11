@@ -1,4 +1,4 @@
-<h1 align="center">ItZ_DeVoT <span style="color:#00d5ff; font-size:18px; font-weight:200">Arshia Fadaie</span></h1>
+<h1 align="center">ItZ_DeVoT <span style="color:#00d5ff; font-size:18px; font-weight:200">(Arshia Fadaie)</span></h1>
 <h3 align="center" style="color:#ffb619; font-weight:400;">Full-Stack Developer</h3>
 
 <p align="center">
